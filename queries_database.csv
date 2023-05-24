@@ -1,0 +1,4 @@
+codigo,query
+1,"select xxx from resultado where codigo_grupo = ""INFANTIL"""
+2,"select xxx from resultado where codigo_grupo = ""MAQUIAGEM"""
+3,"select xxx from resultado where codigo_grupo = ""DOR E FEBRE"""
